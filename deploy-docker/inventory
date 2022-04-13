@@ -1,0 +1,1 @@
+localhost ansible_user=dips ansible_sudo_pass=password
